@@ -1,0 +1,5 @@
+sudo -u postgres psql -d orders
+\dt - list of tables in db
+\d characters - list of columns in table
+printenv - list of environment variables
+export CLASSPATH=/home/azizacalm/Documents/confluent-5.4.0/share/java/*
